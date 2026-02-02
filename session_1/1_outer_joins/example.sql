@@ -9,5 +9,5 @@
 
 
 -- write your sql code here
-
+select * from university
 
